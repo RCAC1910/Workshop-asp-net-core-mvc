@@ -19,7 +19,7 @@ namespace SalesWebMvc.Models
         {
             Id = id;
             Date = date;
-            Amount = Amount;
+            Amount = amount;
             Status = status;
             Seller = seller;
         }
